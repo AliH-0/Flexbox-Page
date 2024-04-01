@@ -1,2 +1,2 @@
 # Landing-Page
-Landing page using flexbox
+Designed a full landing page using only flexbox for practice
